@@ -103,9 +103,6 @@ Limited remote participation, such as a virtual invited speaker or panelist, may
 
 ## Program Schedule
 
-**Date:** Monday, June 21, 2027  
-**Status:** Tentative; final program TBD  
-
 The following program reflects the proposed schedule. Speakers, presenters, accepted contributions, and final session details are **TBD**.
 
 | Time | Activity | Presenter / Authors | Topic / Details |
