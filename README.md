@@ -76,25 +76,11 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 | :-- | :-- |
 | **Submission Deadline** | March 1, 2027 |
 | **Notification of Acceptance** | March 21, 2027 |
-| **Camera-Ready Workshop Papers Due** | April 7, 2027 |
-| **Presentation + Videos Submission** | TBD |
+| **Camera-Ready Workshop Papers Due** | April 1, 2027 |
+| **Presentation + Videos Submission** | May 31, 2027 |
 | **Workshop Date** | June 21, 2027 |
 | **Main Conference** | June 21–24, 2027 |
 
-**Submission deadline time and time zone:** TBD.
-
-### Review Process and Timeline
-
-Papers and abstracts will undergo single-blind peer review. Each reviewer will be assigned **1–2 papers**.
-
-| Reviewing Milestone | Planned Date |
-| :-- | :-- |
-| Submission deadline | March 1, 2027 |
-| Assignment to reviewers | March 3, 2027 |
-| Reviewer follow-ups | March 13 and March 15, 2027 |
-| Reviews due | March 17, 2027 |
-| Decisions | March 17–21, 2027 |
-| Author notifications | March 21, 2027 |
 
 ### Attendance and Participation
 
@@ -119,7 +105,6 @@ Limited remote participation, such as a virtual invited speaker or panelist, may
 
 **Date:** Monday, June 21, 2027  
 **Status:** Tentative; final program TBD  
-**Time zone:** TBD
 
 The following program reflects the proposed schedule. Speakers, presenters, accepted contributions, and final session details are **TBD**.
 
@@ -138,8 +123,6 @@ The following program reflects the proposed schedule. Speakers, presenters, acce
 ### Additional Activities
 
 **Shared task:** TBD.
-
-**Tutorial:** A separate tutorial proposal is planned for **IEEE ICHI 2027** to allow comprehensive coverage, in-depth discussion, and knowledge sharing. Tutorial acceptance, title, instructors, date, time, and venue are **TBD**. A tutorial is not included in the tentative workshop schedule above.
 
 ---
 
@@ -245,7 +228,6 @@ CNLP4QoL 2027 builds on the [First Workshop on Clinical Natural Language Process
 | Workshop room | TBD |
 | Official IEEE ICHI 2027 website | TBD |
 | Registration information and link | TBD |
-| Travel grants | TBD |
 | Accommodation information | TBD |
 
 **Contact:** For questions regarding the workshop, submission eligibility, or sponsorship, please email [cnlp4qol@gmail.com](mailto:cnlp4qol@gmail.com).
