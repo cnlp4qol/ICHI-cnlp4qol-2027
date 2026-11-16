@@ -1,19 +1,21 @@
-# First Workshop on Clinical Natural Language Processing for Quality of Life (CNLP4QoL)
+# Second Workshop on Clinical Natural Language Processing for Quality of Life (CNLP4QoL)
 
-In conjunction with IEEE ICHI 2026 | Minneapolis, MN, USA | June 1, 2026
+In conjunction with **IEEE ICHI 2027** | **Washington, DC, USA** | **June 21, 2027**
 
-[![Submit on EasyChair](https://img.shields.io/badge/Submit%20on-EasyChair-2ea44f)](https://easychair.org/my2/conference?conf=ieeeichi2026)
+**Main conference:** June 21–24, 2027  
+**Submission portal:** TBD
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Overview](#overview)
 2. [Call for Papers](#call-for-papers)
 3. [Keynote Speakers](#keynote-speakers)
 4. [Program Schedule](#program-schedule)
 5. [Organizing Committee](#organizing-committee)
-6. [Venue & Contact](#venue--contact)
+6. [Previous Workshop](#previous-workshop)
+7. [Venue & Contact](#venue--contact)
 
 ---
 
@@ -24,7 +26,7 @@ functional ability, psychological state, and social context shape an individual�
 
 Despite growing methodological progress, significant challenges limit the reliable and scalable use of NLP for QoL assessment. QoL signals are not single, well-defined clinical entities; they are often implicitly expressed and require contextual interpretation of severity, duration, and temporal change rather than simple presence or absence. Furthermore, there is a lack of standardized conceptual models, annotation guidelines, evaluation metrics, and governance frameworks for QoL-focused NLP systems, hindering reproducibility, comparability, and clinical trust. These gaps impede translation into real-world workflows, even though poor QoL is strongly associated with adverse outcomes such as functional decline, mental health crises, hospitalization, and mortality. Addressing these challenges requires coordinated, multidisciplinary efforts to establish shared benchmarks, trustworthy modeling practices, and implementation-ready frameworks for integrating NLP-derived QoL indicators into routine clinical care.
 
-**CNLP4QoL 2026** convenes multidisciplinary experts to develop robust, explainable, and clinically actionable NLP frameworks for measuring and integrating these signals into real-world care. By moving beyond disease-centric paradigms, this workshop adopts a whole-person perspective on QoL, encompassing wellness, function, psychosocial well-being, and lived experience.
+**CNLP4QoL 2027** convenes multidisciplinary experts to develop robust, explainable, and clinically actionable NLP frameworks for measuring and integrating these signals into real-world care. By moving beyond disease-centric paradigms, this workshop adopts a whole-person perspective on QoL, encompassing wellness, function, psychosocial well-being, and lived experience.
 
 ---
 
@@ -45,7 +47,7 @@ We encourage submissions covering, but not limited to:
 - Reasoning and trustworthiness in language models for whole-person care.
 - Standardization of annotation frameworks for QoL concept extraction.
 - Annotation strategies and protocols for subjective QoL constructs.
-- NLP architectures for capturing symptoms, behaviors, and psychosocial factors
+- NLP architectures for capturing symptoms, behaviors, and psychosocial factors.
 - Concept modeling and associated technologies for QoL indicators.
 - Synthetic text generation for psychosocial health indicators.
 - NLP for analyzing patient portals, messages, conversations, and remote monitoring data.
@@ -57,7 +59,7 @@ We encourage submissions covering, but not limited to:
 
 ### Submission Guidelines
 
-All submitted papers and abstracts will undergo a **single-blind peer-review process**. Accepted papers will be published in the **IEEE ICHI 2026 Proceedings**, archived in the IEEE Xplore Digital Library.
+All submitted papers and abstracts will undergo a **single-blind peer-review process**. Accepted papers will be published in the **IEEE ICHI 2027 Proceedings**, archived in the IEEE Xplore Digital Library.
 
 - **Regular Papers (8–10 pages)** will describe mature ideas, where a substantial amount of implementation, experimentation, or data collection and analysis has been completed.  
 - **Short Papers (4–6 pages)** will describe innovative ideas, where preliminary implementation and validation work have been conducted.  
@@ -66,150 +68,78 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 
 **Templates:** Please follow the [IEEE conference templates](https://www.ieee.org/conferences/publishing/templates). Submissions must contain the names and affiliations of authors listed on the paper. 
 
-**Submission:** [Link](https://easychair.org/my2/conference?conf=ieeeichi2026) followed by cNLP4QoL track selection.
+**Submission portal:** TBD. Select the **cNLP4QoL** track when the IEEE ICHI 2027 submission portal becomes available.
 
 ### Important Dates
 
 | Milestone | Date |
 | :-- | :-- |
-| **Submission Deadline** | March 15, 2026 |
-| **Notification of Acceptance** | March 24, 2026 |
-| **Camera-Ready Due** | March 31, 2026 |
-| **Presentation + Videos Submission** | May 18, 2026 |
-| **Workshop Date** | June 1, 2026 |
+| **Submission Deadline** | March 1, 2027 |
+| **Notification of Acceptance** | March 21, 2027 |
+| **Camera-Ready Workshop Papers Due** | April 7, 2027 |
+| **Presentation + Videos Submission** | TBD |
+| **Workshop Date** | June 21, 2027 |
+| **Main Conference** | June 21–24, 2027 |
+
+**Submission deadline time and time zone:** TBD.
+
+### Review Process and Timeline
+
+Papers and abstracts will undergo single-blind peer review. Each reviewer will be assigned **1–2 papers**.
+
+| Reviewing Milestone | Planned Date |
+| :-- | :-- |
+| Submission deadline | March 1, 2027 |
+| Assignment to reviewers | March 3, 2027 |
+| Reviewer follow-ups | March 13 and March 15, 2027 |
+| Reviews due | March 17, 2027 |
+| Decisions | March 17–21, 2027 |
+| Author notifications | March 21, 2027 |
+
+### Attendance and Participation
+
+IEEE ICHI 2027 is an **in-person conference** in Washington, DC. Authors of accepted workshop papers are expected to present in person, and at least one author of each paper must register. At least one organizer must register for the conference and attend in person.
+
+Limited remote participation, such as a virtual invited speaker or panelist, may be considered case by case and requires advance approval from the Workshop Chairs. Registration details are **TBD**.
 
 ---
 
 ## Keynote Speakers
 
-### Sunghwan Sohn, PhD
+| Session | Speaker | Affiliation | Talk Title |
+| :-- | :-- | :-- | :-- |
+| Invited Talk 1 | TBD | TBD | TBD |
+| Invited Talk 2 | TBD | TBD | TBD |
 
-<img src="./Sunghwan-Sohn.jpg" alt="Sunghwan Sohn" width="160" align="right" />
-
-Mayo Clinic, Rochester, MN 
-
-**Bio:** Sunghwan Sohn, Ph.D., has expertise in mining large-scale electronic health records (EHRs) to unlock unstructured and hidden information through natural language processing (NLP) and machine learning techniques. Dr. Sohn develops strategies for the best use of informatics, ranging from precision medicine to population health, in order to achieve better solutions for people. Dr. Sohn's research helps the best use of EHRs to solve clinical problems and improve public health. His work provides biomedical scientists and clinicians access to the rich yet untapped information embedded in clinical narratives. Leveraging AI-driven EHR data analytics, his work provides the healthcare community with the valuable insights needed for advancing clinical research and improving care to people.
-
-[Website](https://www.mayo.edu/research/faculty/sohn-sunghwan-ph-d/bio-20199707) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn)
-
-<br/>
-
-### Rui Zhang, PhD
-
-<img src="./Rui%20Zhang.png" alt="Rui Zhang" width="160" align="right" />
-
-University of Minnesota, Twin Cities, MN  
-
-**Bio:** Dr. Zhang is Professor and Founding Chief of Division of Computational Health Sciences at the University of Minnesota. He was named as McKnight Presidential Fellow and hold several leadership roles, including Chair of AI and Data science for Healthcare workgroup within the UMN’s Data Science and AI Hub, Associate Director of Health AI & Data Science for the Center for Learning Health System Sciences, the Director of Natural Language Processing/Information Extraction (NLP/IE) research program, and previously served as Director of NLP at UMN’s Clinical and Translational Science Institute. Dr. Zhang’s research is at the forefront of integrating novel AI with healthcare research and practice, analyzing multimodal biomedical data, including electronic health records, biomedical literature, and patient-generated data. His research is fully supported by multiple NIH grants as Principal Investigator, focusing on transformative AI projects including mining safety use of dietary supplements (two NCCIH R01s), discovering drug repurposing of Alzheimer’s disease (NIA R01), predicting breast cancer treatment related cardiotoxicity (NCI R01), identifying medical language bias in kidney transplantation (NIDDK R01), and develop knowledge graph on complementary and integrative health (NCCIH U01). He has published over 150 peer-reviewed articles, including Natural Medicine, Natural Communications, Natural Digital Medicine. His work has been reported by The Wall Street Journal, and interviewed by CBS News. Dr. Zhang is a Fellow of International Academy of Health Sciences Informatics (FIAHSI), Fellow of American College of Medical Informatics (FACMI) and Fellow of AMIA. He is the current Chair of AMIA Natural Language Processing (NLP) Working Group.
-
-[Website](https://med.umn.edu/bio/rui-zhang) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=YpoTIgsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rui-zhang-phd-facmi-famia-fiahsi-003065b)  
-
-<br/>
-
-### Sandeep Pagali, MD, MPH
-
-<img src="./sandeep-pagali.webp" alt="Sandeep Pagali" width="160" align="right" />
-
-Mayo Clinic, Rochester, MN  
-
-**Bio:** Sandeep R. Pagali, M.D., M.P.H., is a geriatrician and hospitalist. He is committed to improving care for older adults in the hospital. His research interest is in predicting the risk of hospitalization for older adults with delirium. He focuses on identifying what resources are needed and how they can be best applied to prevent and treat occurrences of delirium. He also studies the role and effectiveness of approaches other than medication in cognitive decline and dementia-related behaviors. Dr. Pagali is very enthusiastic in research related to polypharmacy, treatment with multiple drugs. He is focused on reducing the number of drugs patients are taking. Dr. Pagali also studies ways to improve care transitions for the older adults with an emphasis on care delivery outside of the hospital.
-
-[Website](https://www.mayo.edu/research/faculty/pagali-sandeep-r-m-d-m-p-h/bio-20549278) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=0K9lHp0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/sandeep-pagali-10194526b)
+**Speaker biographies and talk abstracts:** TBD.
 
 ---
 
-<h2>Program Schedule (Monday, June 1, 2026)</h2>
+## Program Schedule
 
-<table>
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Activity</th>
-      <th>Presenter/Authors</th>
-      <th>Title</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>08:15 – 08:25</strong></td>
-      <td><strong>Welcome Remarks & Introduction</strong></td>
-      <td>Eunji Jeon</td>
-      <td>Foundational aspects of clinical NLP for Quality of Life</td>
-    </tr>
-    <tr>
-      <td><strong>08:25 – 08:50</strong></td>
-      <td><strong>Keynote #1</strong></td>
-      <td>Sunghwan Sohn</td>
-      <td>Mobility Functional Status Ascertainment in EHRs</td>
-    </tr>
-    <tr>
-      <td><strong>08:50 – 09:15</strong></td>
-      <td><strong>Keynote #2</strong></td>
-      <td>Sandeep Pagali</td>
-      <td>Leveraging NLP to Detect Delirium Hidden in the Electronic Health Record – Opportunity and Value</td>
-    </tr>
-    <tr>
-      <td rowspan="2"><strong>09:15 – 09:45</strong></td>
-      <td rowspan="2"><strong>Session 1: Oral Presentations</strong></td>
-      <td>Roopika Ganesh and Heena Rathore</td>
-      <td>Repetition-Aware Reinforcement Learning from AI Feedback for Empathetic Dialogue</td>
-    </tr>
-    <tr>
-      <td>Himanshu Tripathi, Kaushik Roy, Shahram Rahimi, Subash Neupane and Sean Bozorgzad</td>
-      <td>From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data</td>
-    </tr>
-    <tr>
-      <td rowspan="5"><strong>09:45 – 10:15</strong></td>
-      <td rowspan="5">☕ <strong>Break & Poster Session</strong></td>
-      <td>Candyce Kroenke, Rhonda Aoki, Jane Liang, David Cronkite, Salene Jones, Jessica Mogk, Larry Kushi, Lauren Mammini, Shaila Strayhorn-Carter, David Mosen and Stacey Alexeeff</td>
-      <td>The EHRsupport score, an electronic health record-based social support measure</td>
-    </tr>
-    <tr>
-      <td>Chen Xie, Di Zhu, Ziwei Wang, Haoyun Zhang and Zihan Wei</td>
-      <td>Explainable AI for Mental Health Detection from Social Media: A Comparative Study of Traditional Machine Learning and a Large Language Model</td>
-    </tr>
-    <tr>
-      <td>Aarushi Jaitly, Helom Berhane, Deepa Burman, Anand Rao, Ramayya Krishnan and Rema Padman</td>
-      <td>Multi-Agent AI Frameworks for Clinical Diagnosis Support: Benchmarking LLM Reasoning with Sleep Disorders as a Testbed</td>
-    </tr>
-    <tr>
-      <td>Esther Lázaro, Vanessa Moscardó, Salvador Herrera-Pérez, Patricia López-Mases and María-Victoria Fux</td>
-      <td>NLP Guided by Qualitative Methodology: Computational Analysis and Qualitative Approaches to Quality of Life</td>
-    </tr>
-    <tr>
-      <td>Salim Sazzed, Farhan Noor Dehan and Md Ehashan Rabbi Pial</td>
-      <td>Eating Disorders Among Individuals with Suicidal Distress: A Cross-Sectional Analysis of Reddit Data on Prevalence, Demographics, and Psychiatric Comorbidity</td>
-    </tr>
-    <tr>
-      <td><strong>10:15 – 10:35</strong></td>
-      <td><strong>Keynote #3</strong></td>
-      <td>Rui Zhang</td>
-      <td>Complementary and Integrative Health for Whole Person health: from Knowledge Graph to Discovery to Real-World Evidence</td>
-    </tr>
-    <tr>
-      <td rowspan="2"><strong>10:35 – 11:05</strong></td>
-      <td rowspan="2"><strong>Session 2: Oral Presentations</strong></td>
-      <td>Chen Xie, Di Zhu, Ziwei Wang, Haoyun Zhang and Zihan Wei</td>
-      <td>Compliance-Aware Discharge Agent for Auditable ICU Discharge Planning: A Pilot Feasibility Study Using Structured eICU Records</td>
-    </tr>
-    <tr>
-      <td>Salim Sazzed, Farhan Noor Dehan, Pronoy Sarker and Md Ehashan Rabbi Pial</td>
-      <td>Beyond Risk Detection: Functional Roles of Substance Use in Suicidal Discourse Among Individuals with Autism Spectrum Disorder and Eating Disorders</td>
-    </tr>
-    <tr>
-      <td><strong>11:05 – 11:35</strong></td>
-      <td><strong>Hands-on Tutorial</strong></td>
-      <td>Pushkala Jayaraman, Humayera Islam</td>
-      <td>Large language models for extracting wellness dimensions</td>
-    </tr>
-    <tr>
-      <td><strong>11:35 – 11:45</strong></td>
-      <td><strong>Closing Remarks & Future Directions</strong></td>
-      <td>Muskan Garg</td>
-      <td>Open research directions for applied clinical NLP in Quality of Life</td>
-    </tr>
-  </tbody>
-</table>
+**Date:** Monday, June 21, 2027  
+**Status:** Tentative; final program TBD  
+**Time zone:** TBD
+
+The following program reflects the proposed schedule. Speakers, presenters, accepted contributions, and final session details are **TBD**.
+
+| Time | Activity | Presenter / Authors | Topic / Details |
+| :-- | :-- | :-- | :-- |
+| **08:15–08:25** | **Welcome Remarks & Introduction** | TBD | Recap of the first workshop and the current state of the domain. |
+| **08:25–09:00** | **Invited Talk 1** | TBD | Title: TBD. A 30-minute talk followed by 5 minutes of Q&A. |
+| **09:00–09:45** | **Session 1: Oral Presentations** | TBD | Two oral presentations; titles: TBD. |
+| **09:45–10:15** | **Coffee Break & Poster Presentations** | TBD | Three to four oral poster presentations, 5 minutes each; titles: TBD. |
+| **10:15–10:50** | **Invited Talk 2** | TBD | Title: TBD. A 30-minute talk followed by 5 minutes of Q&A. |
+| **10:50–11:35** | **Session 2: Oral Presentations** | TBD | Two oral presentations; titles: TBD. |
+| **11:35–11:45** | **Closing Remarks** | TBD | Lessons learned. |
+
+**Oral presentation format (tentative):** 15–20 minutes per presentation plus 5 minutes of Q&A. Final per-paper timing within the session blocks is **TBD**.
+
+### Additional Activities
+
+**Shared task:** TBD.
+
+**Tutorial:** A separate tutorial proposal is planned for **IEEE ICHI 2027** to allow comprehensive coverage, in-depth discussion, and knowledge sharing. Tutorial acceptance, title, instructors, date, time, and venue are **TBD**. A tutorial is not included in the tentative workshop schedule above.
 
 ---
 
@@ -217,65 +147,111 @@ Mayo Clinic, Rochester, MN
 
 ### Workshop Organizers
 
-- **Muskan Garg** - Mayo Clinic, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=_FqdtUsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/muskan-garg-phd-962b4959))
-- **Humayera Islam** - University of Chicago, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=FFVzrPEAAAAJ) · [LinkedIn](https://www.linkedin.com/in/humayera-islam))
-- **Pushkala Jayaraman** - Icahn School of Medicine at Mount Sinai, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=Kce1nVIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/pushkalajayaraman))
-- **Sunyang Fu** - University of Texas, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=PUp9U5UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunyangfu))
-- **Sunghwan Sohn** - Mayo Clinic, USA ([Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn))
+#### Muskan Garg
+
+**Title:** TBD  
+**Affiliation:** Mayo Clinic, Rochester, MN, USA  
+**Email:** [garg.muskan@mayo.edu](mailto:garg.muskan@mayo.edu)
+
+**Bio:** Muskan Garg, PhD, conducts research at Mayo Clinic, Rochester, MN. Muskan worked with social media–derived insights and clinical EHR data to support population health, and cognitive aging. Her research advances clinical NLP through quantification of QoL indicators such as wellness frameworks, and mental health from unstructured clinical and patient-generated text. She has established foundational Clinical NLP frameworks and annotated resources (CAMS, LoST, MultiWD) that further contributed in the development of MentalLLAMA, a domain-specialized large language model for mental health analysis. She has experience with faculty development program on Network Science, and SiCON workshop (EMNLP 2024).
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=_FqdtUsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/muskan-garg-phd-962b4959)
+
+#### Sunyang Fu
+
+**Title:** Assistant Professor  
+**Affiliation:** Department of Clinical and Health Informatics, McWilliams School of Biomedical Informatics, UTHealth Houston, Texas, USA  
+**Email:** [sunyang.fu@uth.tmc.edu](mailto:Sunyang.Fu@uth.tmc.edu)
+
+**Bio:** Sunyang Fu, PhD, is an Assistant Professor in the Department of Clinical and Health Informatics and the Associate Director of Team Science at the Center of Translational AI Excellence and Applications in Medicine (TEAM-AI) at the McWilliams School of Biomedical Informatics, UTHealth Houston. Dr. Fu was the 2023-24 Leadership Fellow with the National Institutes of Health’s AIM-AHEAD and is affiliated with the University of Minnesota and Mayo Clinic. His research focuses on aging informatics, clinical NLP, and translational AI, with prior work emphasizing the modeling and extraction of activities of daily living (ADLs), delirium, falls, and functional status from clinical data. He has experience with AMIA SPC, ICHI KDD workshop, AMIA NLP workshop, Biocreative workshop, and n2c2 workshop.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=PUp9U5UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunyangfu)
+
+#### Sunghwan Sohn
+
+**Title:** Professor  
+**Affiliation:** Department of AI and Informatics, Mayo Clinic, Rochester, MN, USA  
+**Email:** [sohn.sunghwan@mayo.edu](mailto:sohn.sunghwan@mayo.edu)
+
+**Bio:** Sunghwan Sohn, PhD, is a Professor in the department of AI and Informatics at Mayo Clinic, MN. Dr. Sohn is a leading expert in medical informatics using machine learning and NLP, with specialization in clinical text analytics. His research focuses on information extraction and normalization, computational phenotyping, predictive analytics, use of EHR to enhance clinical competency, and medical device surveillance. Dr. Sohn’s overarching goal is to advance precision and population health through patient-centered informatics methods integrated into real-world clinical practice.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=j-wcioAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sunghwansohn)
+
+#### Pushkala Jayaraman
+
+**Title:** Postdoctoral Fellow  
+**Affiliation:** Windreich Department of AI and Human Health, Icahn School of Medicine at Mount Sinai, New York, USA  
+**Email:** [pushkala.jayraman@mssm.edu](mailto:pushkala.jayraman@mssm.edu) · [push2307@gmail.com](mailto:push2307@gmail.com)
+
+**Bio:** Pushkala Jayaraman, Ph.D. is a Postdoctoral Fellow in the Windreich Department of AI and Human Health at the Icahn School of Medicine Mount Sinai, New York. With over a decade of dedicated experience in biomedical informatics, including significant contributions at the Children's Hospital of Philadelphia and the Medical College of Wisconsin, Pushkala has developed advanced diagnostic tools and pipelines that support clinical decision-making in genetics and genomics. She is deeply committed to expanding mentorship, cross-training, and networking opportunities for clinical informatics students and trainees to help them gain broad, interdisciplinary expertise in the field. She has experience with datathon and hackathon at the ICCM, Mount Sinai, NY; AMIA ACMI speed-networking and mentorship session, and coordinated AMIA Informatics Year-In-Review 2024 and 2025.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Kce1nVIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/pushkalajayaraman)
+
+#### Humayera Islam
+
+**Title:** Postdoctoral Scholar  
+**Affiliation:** Institute for Population and Precision Health, The University of Chicago, IL, USA  
+**Email:** [islamh@uchicago.edu](mailto:islamh@uchicago.edu)
+
+**Bio:** Humayera Islam, PhD, is a postdoctoral scholar in precision health at UChicago. A central theme of her research is leveraging structured and unstructured clinical data to predict disease risk, complications, and treatment-related outcomes that directly influence patients’ functional status, symptom burden, and lived experiences. Humayera actively engages in service-oriented volunteer leadership within AMIA, contributing to community advancement through roles including Chair of the AMIA Student Working Group and member of the AMIA CEO Search Task Force (2024), and Secretary of the Knowledge Discovery & Data Mining and Education Working Groups (2025). She has prior experience with KDDM workshop, Global Health Informatics workshop at AMIA Annual Symposium 2025.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=FFVzrPEAAAAJ) · [LinkedIn](https://www.linkedin.com/in/humayera-islam)
+
+#### Xingyi Liu
+
+**Title:** Postdoctoral Fellow  
+**Affiliation:** Mayo Clinic, Rochester, MN, USA  
+**Email:** [liu.xingyi@mayo.edu](mailto:liu.xingyi@mayo.edu)
+
+**Bio:** TBD.
+
+#### Eunji Jeon
+
+**Title:** Postdoctoral Fellow  
+**Affiliation:** Mayo Clinic, Rochester, MN, USA  
+**Email:** [jeon.eunji@mayo.edu](mailto:jeon.eunji@mayo.edu)
+
+**Bio:** TBD.
 
 ### Program Committee
 
-- **Abeed Sarker** (Emory University)  
-- **Adam Jatowt** (University of Innsbruck)  
-- **Al-Fasly, Saghir A.** (Mayo Clinic)  
-- **Aman Chadha** (Apple Inc., USA)  
-- **Amitava Das** (NIT, Goa)  
-- **Dezhi Wu** (University of South Carolina)  
-- **Elina Guralnik** (GMU)  
-- **Esther Lázaro Pérez** (Universidad Internacional de Valencia)  
-- **Eunji Jeon** (Mayo Clinic)  
-- **Kerstin Denecke** (Berner Fachhochschule, Switzerland)  
-- **Kushal Chawla** (Capital One, USA)  
-- **Ruixue Lian** (Amazon, USA)  
-- **Shaina Raza** (University of Toronto)  
-- **Shebuti Rayana** (SUNY at Old Westbury)  
-- **Tianlin Zhang** (The University of Manchester)  
-- **Ugur Kursuncu** (Georgia State University, USA)  
-- **Usha Lokala** (University of South Carolina)  
-- **Xingyi Liu** (Mayo Clinic)  
-- **Ziming Liu** (University of Oklahoma)  
-- **Zehan (Leo) Li** (DeepKin AI, USA)
-- **Sripriya Rajamani** (University of Minnesota)
-- **Kaushik Roy** (University of Alabama)
-- **Ahsaas Bajaj** (Instacart, USA)
-- **Ankush Rastogi**
-- **Pooja Sarin**
-- **Fatma Monib** (Mayo Clinic)
-- **Dhayaeddine Messaoudi** (University of Khenchela)
-- **V. B Murali Krishna** (National Institute of Technology, Andhra Pradesh)
-- **Sachin Kumar** (University of Jammu)
-- **Pratik Jalan** (Indian Institute of Technology Mumbai)
-- **Quan Nguyen**
-- **Santhosh Amilpur** (Indian Institute of Information Technology, SriCity)
-- **Vinay Kumar** (Indian Institute of Technology, Madras)
-- **Parth Vashisht**
-- **Yipeng Shi**
-- **Sanket Shah** (Silver Oak University)
-- **Jyoti Yadav**
-- **Shivali Dalmia** (Centific, United States)
-- **Rupesh Gelal** (University of Cincinnati)
-- **Ananya Mantravadi**
+**Final program committee:** TBD.
+
+**Tentative reviewing committee member:** Muskan Garg, Mayo Clinic, USA.  
+**Additional members and committee roles:** TBD.
+
+---
+
+## Previous Workshop
+
+CNLP4QoL 2027 builds on the [First Workshop on Clinical Natural Language Processing for Quality of Life at IEEE ICHI 2026](https://cnlp4qol.github.io/ICHI-cnlp4qol-2026/).
+
+| First Workshop Metric | Outcome |
+| :-- | :-- |
+| Submissions | 13 |
+| Papers accepted for oral presentation and publication in IEEE Xplore workshop proceedings | 4 |
+| Lightning talks in the poster session, without paper publication | 4 |
+| Attendees | 60+ |
 
 ---
 
 ## Venue & Contact
 
-IEEE ICHI 2026 will be held in Minneapolis, MN, USA.  
-Please visit the [ICHI 2026 website](https://zhang-informatics.github.io/ICHI2026/) for registration, travel grants, and accommodation details.
+**IEEE ICHI 2027** will be held in **Washington, DC, USA**, on **June 21–24, 2027**. The **CNLP4QoL 2027 workshop** is scheduled for **June 21, 2027**.
 
-**Contact:** For questions regarding the workshop, submission eligibility, or sponsorship, please email:  
-📧 cnlp4qol@gmail.com
+| Information | Details |
+| :-- | :-- |
+| Conference venue | TBD |
+| Workshop room | TBD |
+| Official IEEE ICHI 2027 website | TBD |
+| Registration information and link | TBD |
+| Travel grants | TBD |
+| Accommodation information | TBD |
+
+**Contact:** For questions regarding the workshop, submission eligibility, or sponsorship, please email [cnlp4qol@gmail.com](mailto:cnlp4qol@gmail.com).
+
+**Designated organizer contact person:** TBD.
 
 ---
 
-© 2026 CNLP4QoL Workshop Organizers. Hosted on GitHub Pages.
+© 2027 CNLP4QoL Workshop Organizers. Hosted on GitHub Pages.
