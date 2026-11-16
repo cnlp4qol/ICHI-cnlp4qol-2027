@@ -77,7 +77,7 @@ All submitted papers and abstracts will undergo a **single-blind peer-review pro
 | **Notification of Acceptance** | March 21, 2027 |
 | **Camera-Ready Workshop Papers Due** | April 1, 2027 |
 | **Presentation + Videos Submission** | May 31, 2027 |
-| **Workshop Date** | June 21, 2027 |
+| **Workshop Date** | TBD |
 | **Main Conference** | June 21–24, 2027 |
 
 
