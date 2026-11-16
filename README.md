@@ -61,10 +61,9 @@ We encourage submissions covering, but not limited to:
 
 All submitted papers and abstracts will undergo a **single-blind peer-review process**. Accepted papers will be published in the **IEEE ICHI 2027 Proceedings**, archived in the IEEE Xplore Digital Library.
 
-- **Regular Papers (8–10 pages)** will describe mature ideas, where a substantial amount of implementation, experimentation, or data collection and analysis has been completed.  
-- **Short Papers (4–6 pages)** will describe innovative ideas, where preliminary implementation and validation work have been conducted.  
-- **Position Papers (4–6 pages)** will articulate emerging ideas, critical viewpoints, or unmet needs in clinical NLP for Quality of Life.  
-- **Abstracts (2 pages)** will describe your vision, work in progress and preliminary results.
+- **Regular Papers (8–10 pages)** will describe mature ideas, where a substantial amount of implementation, experimentation, or data collection and analysis has been completed.
+- **Short Papers (4–6 pages)** will describe innovative ideas, where preliminary implementation and validation work have been conducted.
+- **Position Papers (4–6 pages)** will articulate emerging ideas, critical viewpoints, or unmet needs in clinical NLP for Quality of Life.
 
 **Templates:** Please follow the [IEEE conference templates](https://www.ieee.org/conferences/publishing/templates). Submissions must contain the names and affiliations of authors listed on the paper. 
 
